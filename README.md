@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Amir Masoud Almasi.
-- 👀 I’m interested in Computer Science, Mathematics, and Video Games.
-- 🌱 I’m currently learning some programming languages like Python, and etc.
-- 📫 Reach me using ID @emirmasood on Instagram, Twitter, Linkedin, and ID @amirmasoudalmasi on Telegram.
+I am an aspiring junior data scientist who enjoys connecting the dots. I have strong technical skills and an academic background in Mathematics and Statistics. My passion lies in solving problems filled with data and algorithms. To follow my passion, I've obtained some verified certificates from top universities worldwide. 
 
-<!---
-EmirMasood/EmirMasood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Besides my passion for science, I also love Video Games, Movies, and Music. You might usually find me exploring Spotify and listening to music, especially when it comes to Electronic ones.
+
+Proficient: Python (Scikit-learn, NumPy, Pandas, Matplotlip, Seaborn), English Language
+Knowledgeable: SQL, Excel, Web Scraping
